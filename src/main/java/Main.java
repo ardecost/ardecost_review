@@ -5,9 +5,11 @@ import java.io.InputStreamReader;
 import java.util.NoSuchElementException;
 
 /**
- * main method for running the program.
+ * File: Main.java
  * @author amehlhas
- *
+ * Date: 04/08/2018
+ * 
+ *Description: main method for running the program
  */
 final class Main {
 	/**
